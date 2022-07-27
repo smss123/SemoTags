@@ -1,4 +1,4 @@
-namespace SemoTags.Bootstrap;
+namespace SemoTags.Bootstrap.Layout.Options;
 
 public partial class ContainerTagHelper
 {

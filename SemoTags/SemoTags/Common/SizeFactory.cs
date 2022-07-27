@@ -1,4 +1,5 @@
 using SemoTags.Bootstrap;
+using ContainerTagHelper = SemoTags.Bootstrap.Layout.Options.ContainerTagHelper;
 
 namespace SemoTags.Common;
 
