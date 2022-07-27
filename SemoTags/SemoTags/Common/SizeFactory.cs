@@ -1,20 +1,22 @@
 using SemoTags.Bootstrap;
+using SemoTags.Bootstrap.Layout.Options;
+using ContainerTagHelper = SemoTags.Bootstrap.Layout.Options.ContainerTagHelper;
 
 namespace SemoTags.Common;
 
 public class SizeFactory
 {
-    public static string GetSize(ContainerTagHelper.CSize size)
+    public static string GetSize(CSize size)
     {
         switch (size)
         {
-            case ContainerTagHelper.CSize.Large:
+            case CSize.Large:
                 return "-lg";
-            case ContainerTagHelper.CSize.Medium:
+            case CSize.Medium:
                 return "-md";
-            case ContainerTagHelper.CSize.Small:
+            case CSize.Small:
                 return "-sm";
-            case ContainerTagHelper.CSize.ExtraSmall:
+            case CSize.ExtraSmall:
                 return "-xs";
             default:
                 return "";

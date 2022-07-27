@@ -1,0 +1,81 @@
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/bin/Debug/net6.0/appsettings.Development.json
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/bin/Debug/net6.0/appsettings.json
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/bin/Debug/net6.0/Semo.Tags.Web.staticwebassets.runtime.json
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/bin/Debug/net6.0/Semo.Tags.Web
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/bin/Debug/net6.0/Semo.Tags.Web.deps.json
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/bin/Debug/net6.0/Semo.Tags.Web.runtimeconfig.json
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/bin/Debug/net6.0/Semo.Tags.Web.dll
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/bin/Debug/net6.0/Semo.Tags.Web.pdb
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/bin/Debug/net6.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/bin/Debug/net6.0/SemoTags.dll
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/bin/Debug/net6.0/SemoTags.pdb
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/obj/Debug/net6.0/Semo.Tags.Web.csproj.AssemblyReference.cache
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/obj/Debug/net6.0/Semo.Tags.Web.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/obj/Debug/net6.0/Semo.Tags.Web.AssemblyInfoInputs.cache
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/obj/Debug/net6.0/Semo.Tags.Web.AssemblyInfo.cs
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/obj/Debug/net6.0/Semo.Tags.Web.csproj.CoreCompileInputs.cache
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/obj/Debug/net6.0/Semo.Tags.Web.MvcApplicationPartsAssemblyInfo.cache
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/obj/Debug/net6.0/Semo.Tags.Web.RazorAssemblyInfo.cache
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/obj/Debug/net6.0/Semo.Tags.Web.RazorAssemblyInfo.cs
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/obj/Debug/net6.0/staticwebassets.build.json
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/obj/Debug/net6.0/staticwebassets.development.json
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/obj/Debug/net6.0/scopedcss/bundle/Semo.Tags.Web.styles.css
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/obj/Debug/net6.0/scopedcss/projectbundle/Semo.Tags.Web.bundle.scp.css
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/obj/Debug/net6.0/Semo.Tags.Web.csproj.CopyComplete
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/obj/Debug/net6.0/Semo.Tags.Web.dll
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/obj/Debug/net6.0/refint/Semo.Tags.Web.dll
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/obj/Debug/net6.0/Semo.Tags.Web.pdb
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/obj/Debug/net6.0/Semo.Tags.Web.genruntimeconfig.cache
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/obj/Debug/net6.0/ref/Semo.Tags.Web.dll
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\bin\Debug\net6.0\appsettings.Development.json
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\bin\Debug\net6.0\appsettings.json
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\bin\Debug\net6.0\Semo.Tags.Web.staticwebassets.runtime.json
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\bin\Debug\net6.0\Semo.Tags.Web.exe
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\bin\Debug\net6.0\Semo.Tags.Web.deps.json
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\bin\Debug\net6.0\Semo.Tags.Web.runtimeconfig.json
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\bin\Debug\net6.0\Semo.Tags.Web.dll
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\bin\Debug\net6.0\Semo.Tags.Web.pdb
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\bin\Debug\net6.0\SemoTags.dll
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\bin\Debug\net6.0\SemoTags.pdb
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\obj\Debug\net6.0\Semo.Tags.Web.csproj.AssemblyReference.cache
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\obj\Debug\net6.0\Semo.Tags.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\obj\Debug\net6.0\Semo.Tags.Web.AssemblyInfoInputs.cache
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\obj\Debug\net6.0\Semo.Tags.Web.AssemblyInfo.cs
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\obj\Debug\net6.0\Semo.Tags.Web.csproj.CoreCompileInputs.cache
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\obj\Debug\net6.0\Semo.Tags.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\obj\Debug\net6.0\Semo.Tags.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\obj\Debug\net6.0\Semo.Tags.Web.RazorAssemblyInfo.cache
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\obj\Debug\net6.0\Semo.Tags.Web.RazorAssemblyInfo.cs
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\obj\Debug\net6.0\scopedcss\bundle\Semo.Tags.Web.styles.css
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\obj\Debug\net6.0\scopedcss\projectbundle\Semo.Tags.Web.bundle.scp.css
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\obj\Debug\net6.0\Semo.Tags.Web.csproj.CopyComplete
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\obj\Debug\net6.0\Semo.Tags.Web.dll
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\obj\Debug\net6.0\refint\Semo.Tags.Web.dll
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\obj\Debug\net6.0\Semo.Tags.Web.pdb
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\obj\Debug\net6.0\Semo.Tags.Web.genruntimeconfig.cache
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\Semo.Tags.Web\obj\Debug\net6.0\ref\Semo.Tags.Web.dll

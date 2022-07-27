@@ -1,0 +1,24 @@
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/SemoTags/bin/Debug/net6.0/SemoTags.deps.json
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/SemoTags/bin/Debug/net6.0/SemoTags.dll
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/SemoTags/bin/Debug/net6.0/SemoTags.pdb
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/SemoTags/obj/Debug/net6.0/SemoTags.csproj.AssemblyReference.cache
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/SemoTags/obj/Debug/net6.0/SemoTags.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/SemoTags/obj/Debug/net6.0/SemoTags.AssemblyInfoInputs.cache
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/SemoTags/obj/Debug/net6.0/SemoTags.AssemblyInfo.cs
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/SemoTags/obj/Debug/net6.0/SemoTags.csproj.CoreCompileInputs.cache
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/SemoTags/obj/Debug/net6.0/SemoTags.dll
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/SemoTags/obj/Debug/net6.0/refint/SemoTags.dll
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/SemoTags/obj/Debug/net6.0/SemoTags.pdb
+/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/SemoTags/obj/Debug/net6.0/ref/SemoTags.dll
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\SemoTags\bin\Debug\net6.0\SemoTags.deps.json
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\SemoTags\bin\Debug\net6.0\SemoTags.dll
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\SemoTags\bin\Debug\net6.0\SemoTags.pdb
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\SemoTags\obj\Debug\net6.0\SemoTags.csproj.AssemblyReference.cache
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\SemoTags\obj\Debug\net6.0\SemoTags.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\SemoTags\obj\Debug\net6.0\SemoTags.AssemblyInfoInputs.cache
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\SemoTags\obj\Debug\net6.0\SemoTags.AssemblyInfo.cs
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\SemoTags\obj\Debug\net6.0\SemoTags.csproj.CoreCompileInputs.cache
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\SemoTags\obj\Debug\net6.0\SemoTags.dll
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\SemoTags\obj\Debug\net6.0\refint\SemoTags.dll
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\SemoTags\obj\Debug\net6.0\SemoTags.pdb
+D:\Xprema Systems\SemoTags\SemoTags\SemoTags\SemoTags\obj\Debug\net6.0\ref\SemoTags.dll
