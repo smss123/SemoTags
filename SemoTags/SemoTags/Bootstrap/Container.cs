@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Razor.TagHelpers;
 
 namespace SemoTags.Bootstrap;
 
-public class Container:TagHelper
+public class ContainerTagHelper:TagHelper
 {
     public override async Task ProcessAsync(TagHelperContext context, TagHelperOutput output)
     {
