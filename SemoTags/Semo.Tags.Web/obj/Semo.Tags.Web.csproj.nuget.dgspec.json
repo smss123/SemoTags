@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/Semo.Tags.Web.csproj": {}
+  },
+  "projects": {
+    "/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/Semo.Tags.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/Semo.Tags.Web.csproj",
+        "projectName": "Semo.Tags.Web",
+        "projectPath": "/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/Semo.Tags.Web.csproj",
+        "packagesPath": "/Users/mgrp/.nuget/packages/",
+        "outputPath": "/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/mgrp/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/SemoTags/SemoTags.csproj": {
+                "projectPath": "/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/SemoTags/SemoTags.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/SemoTags/SemoTags.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/SemoTags/SemoTags.csproj",
+        "projectName": "SemoTags",
+        "projectPath": "/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/SemoTags/SemoTags.csproj",
+        "packagesPath": "/Users/mgrp/.nuget/packages/",
+        "outputPath": "/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/SemoTags/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/mgrp/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.TagHelpers": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

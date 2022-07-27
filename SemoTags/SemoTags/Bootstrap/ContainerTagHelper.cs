@@ -9,12 +9,12 @@ public partial class ContainerTagHelper : TagHelper
     public override async Task ProcessAsync(TagHelperContext context, TagHelperOutput output)
     {
         output.TagName = "div";
-        output.Attributes.Add("class", "container");
-        BuildSize(output, Size);
+
+        BuildSize(ref output, Size);
         output.Content.SetHtmlContent(await output.GetChildContentAsync());
     }
 
-    private void BuildSize(TagHelperOutput output, CSize size)
+    private void BuildSize(ref TagHelperOutput output, CSize size)
     {
         if (Size == CSize.Large)
         {
