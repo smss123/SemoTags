@@ -5,7 +5,7 @@ namespace SemoTags.Bootstrap.Layout;
 
 public class ColTagHelper : TagHelper
 {
-    public BootStrapSize Size { get; set; }
+    public BootStrapSize Size { get; set; } = BootStrapSize.Default;
 
     public override void Process(TagHelperContext context, TagHelperOutput output)
     {
