@@ -10,4 +10,8 @@
       <PackageReference Include="Microsoft.AspNetCore.Mvc.TagHelpers" Version="2.2.0" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Include="obj\rider.project.restore.info" />
+    </ItemGroup>
+
 </Project>
