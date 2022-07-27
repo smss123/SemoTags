@@ -2,7 +2,17 @@ namespace SemoTags.Bootstrap.Layout.Builders;
 
 public class ColumnTagBuilder
 {
-    private static string _col = "col";
+    public override string? ToString()
+    {
+        return Build();
+    }
+
+    private static string? _col ;
+    public ColumnTagBuilder AddColumn()
+    {
+        _col = "col";
+        return this;
+    }
 
     public ColumnTagBuilder AddSize(string size)
     {
@@ -41,8 +51,32 @@ public class ColumnTagBuilder
     }
 
 
-    public string Build()
+    public string? Build()
     {
         return _col;
+    }
+
+    public ColumnTagBuilder AddLargeColumn()
+    {
+        _col="col-lg";
+        return this;
+    }
+
+    public ColumnTagBuilder AddMediumColumn()
+    {
+        _col="col-md";
+        return this;
+    }
+
+    public ColumnTagBuilder AddSmallColumn()
+    {
+        _col="col-sm";
+        return this;
+    }
+
+    public ColumnTagBuilder AddExtraSmallColumn()
+    {
+        _col="col-xs";
+        return this;
     }
 }
