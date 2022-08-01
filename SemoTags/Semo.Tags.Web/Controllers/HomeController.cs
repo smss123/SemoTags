@@ -15,7 +15,12 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        return View();
+        var model = new XUser()
+        {
+            UserName = "Samer",
+            Password = "123456"
+        };
+        return View(model);
     }
 
     public IActionResult Privacy()
