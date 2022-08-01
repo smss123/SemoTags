@@ -14,8 +14,4 @@
         <Content Include="obj\rider.project.restore.info"/>
     </ItemGroup>
 
-    <ItemGroup>
-        <Folder Include="BootStrap"/>
-    </ItemGroup>
-
 </Project>

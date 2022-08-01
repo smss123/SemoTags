@@ -1,26 +1,38 @@
 namespace SemoTags.Common;
 
-public class BootStrapSize
+public enum BootStrapSize
 {
-    public const string Sm = "sm";
-    public const string Md = "md";
-    public const string Lg = "lg";
-    public const string Xl = "xl";
+    Sm = 1,
+    Md = 2,
+    Lg = 3,
+    Xl = 4,
+    Xxl = 5,
+    Fluid = 6,
+    None = 7
+}
 
-    public static string Bind(string size)
+public class BootStrapSizeBuilder
+{
+    public static string GetBootStrapSize(BootStrapSize size)
     {
         switch (size)
         {
-            case "sm":
-                return "small";
-            case "md":
-                return "medium";
-            case "lg":
-                return "large";
-            case "xl":
-                return "xlarge";
+            case BootStrapSize.Sm:
+                return "-sm";
+            case BootStrapSize.Md:
+                return "-md";
+            case BootStrapSize.Lg:
+                return "-lg";
+            case BootStrapSize.Xl:
+                return "-xl";
+            case BootStrapSize.Xxl:
+                return "-xxl";
+            case BootStrapSize.Fluid:
+                return "-fluid";
+            case BootStrapSize.None:
+                return "";
             default:
-                return "medium";
+                return "";
         }
     }
 }
