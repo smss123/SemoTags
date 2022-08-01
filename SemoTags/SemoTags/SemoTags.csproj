@@ -7,11 +7,15 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="Microsoft.AspNetCore.Mvc.TagHelpers" Version="2.2.0" />
+        <PackageReference Include="Microsoft.AspNetCore.Mvc.TagHelpers" Version="2.2.0"/>
     </ItemGroup>
 
     <ItemGroup>
-      <Content Include="obj\rider.project.restore.info" />
+        <Content Include="obj\rider.project.restore.info"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <Folder Include="BootStrap"/>
     </ItemGroup>
 
 </Project>
