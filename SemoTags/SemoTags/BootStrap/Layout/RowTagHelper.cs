@@ -5,6 +5,7 @@ namespace SemoTags.BootStrap.Layout;
 public class RowTagHelper : TagHelper
 {
     public bool JustifyContentCenter { get; set; } = false;
+    public bool AlignItemsStart { get; set; }
 
     public override async Task ProcessAsync(TagHelperContext context, TagHelperOutput output)
     {
@@ -14,6 +15,11 @@ public class RowTagHelper : TagHelper
         if (JustifyContentCenter)
         {
             className += " justify-content-center";
+        }
+
+        if (AlignItemsStart)
+        {
+            className += " align-items-start";
         }
 
         output.Content.SetHtmlContent(await output.GetChildContentAsync());
