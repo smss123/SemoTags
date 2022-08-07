@@ -9,6 +9,7 @@ namespace SemoTags.BootStrap.Layout;
 public class ContainerTagHelper : TagHelper
 {
     public BootStrapSize Size { get; set; }
+    public bool Fluid { get; set; }
     public bool TextCenter { get; set; } = false;
 
     public override async Task ProcessAsync(TagHelperContext context, TagHelperOutput output)
@@ -17,6 +18,7 @@ public class ContainerTagHelper : TagHelper
         string className = "container";
         className += BootStrapSizeBuilder.GetBootStrapSize(Size);
         className += TextCenter ? " text-center" : "";
+        className += Fluid ? " fluid" : "";
         output.Attributes.Add("class", className);
         output.Content.SetHtmlContent(await output.GetChildContentAsync());
     }

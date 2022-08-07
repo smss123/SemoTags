@@ -4,22 +4,20 @@ using Microsoft.AspNetCore.Razor.TagHelpers;
 
 namespace SemoTags.BootStrap.Forms;
 
+/// <summary>
+/// Easily extend form controls by adding text, buttons, or button groups on either side of textual inputs, custom selects, and custom file inputs.
+/// </summary>
 public class FormField : TagHelper
 {
-    private IHtmlGenerator _generator { get; set; }
-
-    public FormField(IHtmlGenerator generator)
-    {
-        _generator = generator;
-    }
-
-
     public ModelExpression AspFor { get; set; }
+    public bool IsSmall { get; set; } = false;
 
     public override async Task ProcessAsync(TagHelperContext context, TagHelperOutput output)
     {
         TagBuilder instance = new TagBuilder("div");
-        instance.AddCssClass("input-group");
+        instance.AddCssClass(IsSmall ? "input-group input-group-sm" : "input-group");
+
+
         TagBuilder label = new TagBuilder("label");
         label.AddCssClass("control-label");
         label.InnerHtml.Append(AspFor.Metadata.DisplayName ?? AspFor.Name);
@@ -65,10 +63,4 @@ public class FormField : TagHelper
         instance.InnerHtml.AppendHtml(input);
         output.Content.AppendHtml(instance);
     }
-}
-
-public class FormFieldFactory
-{
-    public static readonly string Prefix = "<div class='input-group'>";
-    public static readonly string Suffix = "</div>";
 }
