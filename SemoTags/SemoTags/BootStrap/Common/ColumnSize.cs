@@ -16,3 +16,7 @@ public enum ColumnSize
     Twelve = 12,
     None = 13
 }
+
+public enum ColumnOption
+{
+}
