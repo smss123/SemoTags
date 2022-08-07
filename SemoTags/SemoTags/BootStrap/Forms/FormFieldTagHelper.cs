@@ -4,26 +4,30 @@ using Microsoft.AspNetCore.Razor.TagHelpers;
 
 namespace SemoTags.BootStrap.Forms;
 
-public class FormField : TagHelper
+/// <summary>
+/// Easily extend form controls by adding text, buttons, or button groups on either side of textual inputs, custom selects, and custom file inputs.
+/// </summary>
+public class FormFieldTagHelper : TagHelper
 {
-    private IHtmlGenerator _generator { get; set; }
-
-    public FormField(IHtmlGenerator generator)
+    public FormFieldTagHelper(IHtmlGenerator generator)
     {
         _generator = generator;
     }
 
-
     public ModelExpression AspFor { get; set; }
+
+
+    [ViewContext] public ViewContext ViewContext { get; set; }
+
+    public bool IsSmall { get; set; } = false;
+    private readonly IHtmlGenerator _generator;
 
     public override async Task ProcessAsync(TagHelperContext context, TagHelperOutput output)
     {
         TagBuilder instance = new TagBuilder("div");
-        instance.AddCssClass("input-group");
-        TagBuilder label = new TagBuilder("label");
-        label.AddCssClass("control-label");
-        label.InnerHtml.Append(AspFor.Metadata.DisplayName ?? AspFor.Name);
-        instance.InnerHtml.AppendHtml(label);
+        instance.AddCssClass(IsSmall ? "input-group input-group-sm" : "input-group");
+
+        instance.InnerHtml.AppendHtml(Label());
         TagBuilder input = new TagBuilder("input");
 
         if (AspFor.Metadata.ModelType.Name == "Boolean")
@@ -59,16 +63,27 @@ public class FormField : TagHelper
             input.AddCssClass("form-control");
         }
 
+        var validationMsg = _generator.GenerateValidationMessage(
+            ViewContext,
+            AspFor.ModelExplorer,
+            AspFor.Name,
+            null,
+            ViewContext.ValidationMessageElement,
+            new { @class = "text-danger" });
+
         input.Attributes.Add("name", AspFor.Name);
-        Console.WriteLine(AspFor.Metadata.ModelType.Name);
+
         input.Attributes.Add("value", AspFor.Model.ToString());
         instance.InnerHtml.AppendHtml(input);
+        instance.InnerHtml.AppendHtml(validationMsg);
         output.Content.AppendHtml(instance);
     }
-}
 
-public class FormFieldFactory
-{
-    public static readonly string Prefix = "<div class='input-group'>";
-    public static readonly string Suffix = "</div>";
+    private TagBuilder Label()
+    {
+        TagBuilder label = new TagBuilder("label");
+        label.AddCssClass("control-label");
+        label.InnerHtml.Append(AspFor.Metadata.DisplayName ?? AspFor.Name);
+        return label;
+    }
 }
