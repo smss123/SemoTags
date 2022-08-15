@@ -7311,36 +7311,39 @@
     ]
   },
   "packageFolders": {
-    "/Users/mgrp/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\smsss\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/Semo.Tags.Web.csproj",
+      "projectUniqueName": "C:\\Users\\smsss\\Source\\Repos\\smss123\\SemoTags\\SemoTags\\Semo.Tags.Web\\Semo.Tags.Web.csproj",
       "projectName": "Semo.Tags.Web",
-      "projectPath": "/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/Semo.Tags.Web.csproj",
-      "packagesPath": "/Users/mgrp/.nuget/packages/",
-      "outputPath": "/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/Semo.Tags.Web/obj/",
+      "projectPath": "C:\\Users\\smsss\\Source\\Repos\\smss123\\SemoTags\\SemoTags\\Semo.Tags.Web\\Semo.Tags.Web.csproj",
+      "packagesPath": "C:\\Users\\smsss\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\smsss\\Source\\Repos\\smss123\\SemoTags\\SemoTags\\Semo.Tags.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "/Users/mgrp/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\smsss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/SemoTags/SemoTags.csproj": {
-              "projectPath": "/Users/mgrp/Desktop/Playground/semoTags/SemoTags/SemoTags/SemoTags/SemoTags.csproj"
+            "C:\\Users\\smsss\\Source\\Repos\\smss123\\SemoTags\\SemoTags\\SemoTags\\SemoTags.csproj": {
+              "projectPath": "C:\\Users\\smsss\\Source\\Repos\\smss123\\SemoTags\\SemoTags\\SemoTags\\SemoTags.csproj"
             }
           }
         }
@@ -7372,7 +7375,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
