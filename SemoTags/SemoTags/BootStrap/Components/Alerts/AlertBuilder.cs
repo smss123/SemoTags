@@ -16,32 +16,32 @@ namespace SemoTags.BootStrap.Components.Alerts
             return this;
         }
 
-        public AlertBuilder SetAlertType(AlertType type)
+        public AlertBuilder SetAlertType(ColorType type)
         {
             switch (type)
             {
-                case AlertType.Primary:
+                case ColorType.Primary:
                     _html += "primary";
                     break;
-                case AlertType.Secondary:
+                case ColorType.Secondary:
                     _html += "secondary";
                     break;
-                case AlertType.Success:
+                case ColorType.Success:
                     _html += "success";
                     break;
-                case AlertType.Danger:
+                case ColorType.Danger:
                     _html += "danger";
                     break;
-                case AlertType.Warning:
+                case ColorType.Warning:
                     _html += "warning";
                     break;
-                case AlertType.Info:
+                case ColorType.Info:
                     _html += "info";
                     break;
-                case AlertType.Light:
+                case ColorType.Light:
                     _html += "light";
                     break;
-                case AlertType.Dark:
+                case ColorType.Dark:
                     _html += "dark";
                     break;
             }
@@ -65,25 +65,25 @@ namespace SemoTags.BootStrap.Components.Alerts
             return _html;
         }
 
-        public string GetAlertType(AlertType type)
+        public string GetAlertType(ColorType type)
         {
             switch (type)
             {
-                case AlertType.Primary:
+                case ColorType.Primary:
                     return "primary";
-                case AlertType.Secondary:
+                case ColorType.Secondary:
                     return "secondary";
-                case AlertType.Success:
+                case ColorType.Success:
                     return "success";
-                case AlertType.Danger:
+                case ColorType.Danger:
                     return "danger";
-                case AlertType.Warning:
+                case ColorType.Warning:
                     return "warning";
-                case AlertType.Info:
+                case ColorType.Info:
                     return "info";
-                case AlertType.Light:
+                case ColorType.Light:
                     return "light";
-                case AlertType.Dark:
+                case ColorType.Dark:
                     return "dark";
             }
 
