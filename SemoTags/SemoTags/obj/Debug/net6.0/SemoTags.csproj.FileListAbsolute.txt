@@ -22,3 +22,15 @@ D:/Xprema Systems/SemoTags/SemoTags/SemoTags/SemoTags/obj/Debug/net6.0/SemoTags.
 D:/Xprema Systems/SemoTags/SemoTags/SemoTags/SemoTags/obj/Debug/net6.0/refint/SemoTags.dll
 D:/Xprema Systems/SemoTags/SemoTags/SemoTags/SemoTags/obj/Debug/net6.0/SemoTags.pdb
 D:/Xprema Systems/SemoTags/SemoTags/SemoTags/SemoTags/obj/Debug/net6.0/ref/SemoTags.dll
+C:\Users\smsss\Source\Repos\smss123\SemoTags\SemoTags\SemoTags\bin\Debug\net6.0\SemoTags.deps.json
+C:\Users\smsss\Source\Repos\smss123\SemoTags\SemoTags\SemoTags\bin\Debug\net6.0\SemoTags.dll
+C:\Users\smsss\Source\Repos\smss123\SemoTags\SemoTags\SemoTags\bin\Debug\net6.0\SemoTags.pdb
+C:\Users\smsss\Source\Repos\smss123\SemoTags\SemoTags\SemoTags\obj\Debug\net6.0\SemoTags.csproj.AssemblyReference.cache
+C:\Users\smsss\Source\Repos\smss123\SemoTags\SemoTags\SemoTags\obj\Debug\net6.0\SemoTags.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smsss\Source\Repos\smss123\SemoTags\SemoTags\SemoTags\obj\Debug\net6.0\SemoTags.AssemblyInfoInputs.cache
+C:\Users\smsss\Source\Repos\smss123\SemoTags\SemoTags\SemoTags\obj\Debug\net6.0\SemoTags.AssemblyInfo.cs
+C:\Users\smsss\Source\Repos\smss123\SemoTags\SemoTags\SemoTags\obj\Debug\net6.0\SemoTags.csproj.CoreCompileInputs.cache
+C:\Users\smsss\Source\Repos\smss123\SemoTags\SemoTags\SemoTags\obj\Debug\net6.0\SemoTags.dll
+C:\Users\smsss\Source\Repos\smss123\SemoTags\SemoTags\SemoTags\obj\Debug\net6.0\refint\SemoTags.dll
+C:\Users\smsss\Source\Repos\smss123\SemoTags\SemoTags\SemoTags\obj\Debug\net6.0\SemoTags.pdb
+C:\Users\smsss\Source\Repos\smss123\SemoTags\SemoTags\SemoTags\obj\Debug\net6.0\ref\SemoTags.dll
