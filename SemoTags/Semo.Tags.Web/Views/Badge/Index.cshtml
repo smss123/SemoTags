@@ -1,0 +1,17 @@
+﻿@using SemoTags.BootStrap.Components.Badges
+@using SemoTags.BootStrap.Components.Alerts
+ <badge default type="Danger">
+     55
+ </badge>
+ 
+ <hr />
+<badge notification notification-badge="55" default type="Info">
+    notification
+</badge>
+@{
+   var options =  new PositionedArg() { Href = "#", NotificationText = "", InnerColor = ColorType.Success,VisuallyHidden = "un we messages" };
+}
+<badge type="Primary" state="Positioned" href="#" positioned-options="options">
+    
+    welcome
+</badge>

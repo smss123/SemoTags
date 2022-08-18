@@ -2,11 +2,16 @@
   "ExpandedNodes": [
     "",
     "\\SemoTags",
-    "\\SemoTags\\SemoTags",
-    "\\SemoTags\\SemoTags\\BootStrap",
-    "\\SemoTags\\SemoTags\\BootStrap\\Components",
-    "\\SemoTags\\SemoTags\\BootStrap\\Forms"
+    "\\SemoTags\\Semo.Tags.Web",
+    "\\SemoTags\\Semo.Tags.Web\\Controllers",
+    "\\SemoTags\\Semo.Tags.Web\\Views",
+    "\\SemoTags\\Semo.Tags.Web\\Views\\Badge",
+    "\\SemoTags\\Semo.Tags.Web\\wwwroot",
+    "\\SemoTags\\Semo.Tags.Web\\wwwroot\\lib",
+    "\\SemoTags\\Semo.Tags.Web\\wwwroot\\lib\\bootstrap",
+    "\\SemoTags\\Semo.Tags.Web\\wwwroot\\lib\\bootstrap\\dist",
+    "\\SemoTags\\Semo.Tags.Web\\wwwroot\\lib\\bootstrap\\dist\\css"
   ],
-  "SelectedNode": "\\SemoTags\\SemoTags\\BootStrap\\Components\\AlertTagHelper.cs",
+  "SelectedNode": "\\SemoTags\\Semo.Tags.Web\\Views\\Badge\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
