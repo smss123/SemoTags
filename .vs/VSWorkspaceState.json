@@ -3,15 +3,15 @@
     "",
     "\\SemoTags",
     "\\SemoTags\\Semo.Tags.Web",
-    "\\SemoTags\\Semo.Tags.Web\\Controllers",
     "\\SemoTags\\Semo.Tags.Web\\Views",
     "\\SemoTags\\Semo.Tags.Web\\Views\\Badge",
-    "\\SemoTags\\Semo.Tags.Web\\wwwroot",
-    "\\SemoTags\\Semo.Tags.Web\\wwwroot\\lib",
-    "\\SemoTags\\Semo.Tags.Web\\wwwroot\\lib\\bootstrap",
-    "\\SemoTags\\Semo.Tags.Web\\wwwroot\\lib\\bootstrap\\dist",
-    "\\SemoTags\\Semo.Tags.Web\\wwwroot\\lib\\bootstrap\\dist\\css"
+    "\\SemoTags\\SemoTags",
+    "\\SemoTags\\SemoTags\\BootStrap",
+    "\\SemoTags\\SemoTags\\BootStrap\\classes",
+    "\\SemoTags\\SemoTags\\BootStrap\\classes\\layout",
+    "\\SemoTags\\SemoTags\\BootStrap\\classes\\layout\\Containers",
+    "\\SemoTags\\SemoTags\\BootStrap\\classes\\layout\\Grids"
   ],
-  "SelectedNode": "\\SemoTags\\Semo.Tags.Web\\Views\\Badge\\Index.cshtml",
+  "SelectedNode": "\\SemoTags\\SemoTags\\BootStrap\\classes\\layout\\Grids\\Col12TagHelper.cs",
   "PreviewInSolutionExplorer": false
 }
