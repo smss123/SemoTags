@@ -2,6 +2,8 @@
 using Microsoft.AspNetCore.Mvc.TagHelpers;
 using Microsoft.AspNetCore.Razor.TagHelpers;
 
+namespace SemoTags.BootStrap.classes.layout.Grids;
+
 [HtmlTargetElement(Attributes = "col-12")]
 public class Col12TagHelper : TagHelper
 {

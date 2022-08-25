@@ -1,4 +1,8 @@
-﻿using Microsoft.AspNetCore.Razor.TagHelpers;
+﻿using System.Text.Encodings.Web;
+using Microsoft.AspNetCore.Mvc.TagHelpers;
+using Microsoft.AspNetCore.Razor.TagHelpers;
+
+namespace SemoTags.BootStrap.classes.layout.Grids;
 
 [HtmlTargetElement(Attributes = "col-2")]
 public class Col2TagHelper : TagHelper
