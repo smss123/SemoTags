@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\smsss\\Source\\Repos\\smss123\\SemoTags\\SemoTags\\SemoTags\\SemoTags.csproj": {}
+    "C:\\Users\\smsss\\source\\repos\\smss123\\SemoTags\\SemoTags\\SemoTags\\SemoTags.csproj": {}
   },
   "projects": {
-    "C:\\Users\\smsss\\Source\\Repos\\smss123\\SemoTags\\SemoTags\\SemoTags\\SemoTags.csproj": {
+    "C:\\Users\\smsss\\source\\repos\\smss123\\SemoTags\\SemoTags\\SemoTags\\SemoTags.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\smsss\\Source\\Repos\\smss123\\SemoTags\\SemoTags\\SemoTags\\SemoTags.csproj",
+        "projectUniqueName": "C:\\Users\\smsss\\source\\repos\\smss123\\SemoTags\\SemoTags\\SemoTags\\SemoTags.csproj",
         "projectName": "SemoTags",
-        "projectPath": "C:\\Users\\smsss\\Source\\Repos\\smss123\\SemoTags\\SemoTags\\SemoTags\\SemoTags.csproj",
+        "projectPath": "C:\\Users\\smsss\\source\\repos\\smss123\\SemoTags\\SemoTags\\SemoTags\\SemoTags.csproj",
         "packagesPath": "C:\\Users\\smsss\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\smsss\\Source\\Repos\\smss123\\SemoTags\\SemoTags\\SemoTags\\obj\\",
+        "outputPath": "C:\\Users\\smsss\\source\\repos\\smss123\\SemoTags\\SemoTags\\SemoTags\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

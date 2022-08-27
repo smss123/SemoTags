@@ -10,8 +10,9 @@
     "\\SemoTags\\SemoTags\\BootStrap\\classes",
     "\\SemoTags\\SemoTags\\BootStrap\\classes\\layout",
     "\\SemoTags\\SemoTags\\BootStrap\\classes\\layout\\Containers",
+    "\\SemoTags\\SemoTags\\BootStrap\\classes\\layout\\Getters",
     "\\SemoTags\\SemoTags\\BootStrap\\classes\\layout\\Grids"
   ],
-  "SelectedNode": "\\SemoTags\\SemoTags\\BootStrap\\classes\\layout\\Grids\\Col12TagHelper.cs",
+  "SelectedNode": "\\SemoTags\\SemoTags\\BootStrap\\classes\\layout\\Grids\\GridTagHelper.cs",
   "PreviewInSolutionExplorer": false
 }
