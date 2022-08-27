@@ -1,0 +1,38 @@
+﻿@using SemoTags.BootStrap.Components.Badges
+@using SemoTags.BootStrap.Components.Alerts
+@using SemoTags.BootStrap.classes.layout.Grids
+ 
+ <badge default type="Danger">
+     55
+ </badge>
+ 
+ <hr />
+<badge notification notification-badge="55" default type="Info">
+    notification
+</badge>
+@{
+   var options =  new PositionedArg() { Href = "#", NotificationText = "", InnerColor = ColorType.Success,VisuallyHidden = "un we messages" };
+}
+<badge type="Primary" state="Positioned" href="#" positioned-options="options">
+    
+    welcome
+</badge>
+<div row col-12>
+    <div col-6>
+        col 1 
+    </div>
+    <div col-6>
+        col 1 
+    </div>
+    
+    row should working here
+</div>
+<div text-end md>
+    Welcome here
+</div>
+<div text-start xl>
+    Here lg
+</div>
+<Text-End md>
+    Welcome
+</Text-End>

@@ -2,11 +2,17 @@
   "ExpandedNodes": [
     "",
     "\\SemoTags",
+    "\\SemoTags\\Semo.Tags.Web",
+    "\\SemoTags\\Semo.Tags.Web\\Views",
+    "\\SemoTags\\Semo.Tags.Web\\Views\\Badge",
     "\\SemoTags\\SemoTags",
     "\\SemoTags\\SemoTags\\BootStrap",
-    "\\SemoTags\\SemoTags\\BootStrap\\Components",
-    "\\SemoTags\\SemoTags\\BootStrap\\Forms"
+    "\\SemoTags\\SemoTags\\BootStrap\\classes",
+    "\\SemoTags\\SemoTags\\BootStrap\\classes\\layout",
+    "\\SemoTags\\SemoTags\\BootStrap\\classes\\layout\\Containers",
+    "\\SemoTags\\SemoTags\\BootStrap\\classes\\layout\\Getters",
+    "\\SemoTags\\SemoTags\\BootStrap\\classes\\layout\\Grids"
   ],
-  "SelectedNode": "\\SemoTags\\SemoTags\\BootStrap\\Components\\AlertTagHelper.cs",
+  "SelectedNode": "\\SemoTags\\SemoTags\\BootStrap\\classes\\layout\\Grids\\GridTagHelper.cs",
   "PreviewInSolutionExplorer": false
 }

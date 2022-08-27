@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bDTopy/WOOpFHmBR4I8kqNeI577D50d7J3T+GVDO84S3lUgPRZLzdf39vyK32YDxw7vH7yI9zcya6KDqKCxd5w==",
+  "dgSpecHash": "58V+gt6DwndoP+eZtgXNqw48rQc2Ay+cznX0juYenhQuvxtXrVCkxRsoNXecDwg5YaL2foF7qouOb1uRzZ7jLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\smsss\\Source\\Repos\\smss123\\SemoTags\\SemoTags\\Semo.Tags.Web\\Semo.Tags.Web.csproj",
+  "projectFilePath": "C:\\Users\\smsss\\source\\repos\\smss123\\SemoTags\\SemoTags\\Semo.Tags.Web\\Semo.Tags.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\smsss\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\smsss\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

@@ -15,6 +15,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\smsss\Source\Repos\smss123\SemoTags\SemoTags\Semo.Tags.Web
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/smsss/Source/Repos/smss123/SemoTags/SemoTags/Semo.Tags.Web/Views/Badge/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFkZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/smsss/Source/Repos/smss123/SemoTags/SemoTags/Semo.Tags.Web/Views/Breadcrumb/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJlYWRjcnVtYlxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/smsss/Source/Repos/smss123/SemoTags/SemoTags/Semo.Tags.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

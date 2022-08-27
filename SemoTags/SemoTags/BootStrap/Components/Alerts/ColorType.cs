@@ -1,6 +1,6 @@
 ﻿namespace SemoTags.BootStrap.Components.Alerts;
 
-public enum AlertType
+public enum ColorType
 {
     Primary,
     Secondary,
