@@ -7,6 +7,7 @@ namespace SemoTags.BootStrap.classes.Texts.TextColors;
 [HtmlTargetElement(Attributes = "text-secondary")]
 public class TextSecondaryTagHelper : TagHelper
 {
+    /// <inheritdoc />
     public override async Task ProcessAsync(TagHelperContext context, TagHelperOutput output)
     {
 
